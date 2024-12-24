@@ -96,7 +96,7 @@ The number of times "Hello World!" is printed can be controlled by changing the 
 HelloWorldMainLauncherClass tizio = new HelloWorldMainLauncherClass(3);
 ```
 
-This will print "Hello World!" three times.
+This will print "Hello World!" six times.
 
 ## Code Explanation
 
