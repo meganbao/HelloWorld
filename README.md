@@ -13,12 +13,12 @@ https://www.youtube.com/watch?v=yup8gIXxWDU
 [Here](https://www.youtube.com/@nanowarVEVO) is the Nanowar Of Steel Youtube Channel.
 
 Some important notes:
-1. Beware of ```Joey De Caio```, if set to null It may suddenly cancel the program execution with a NullPointerException.
+1. Beware of ```Joey De Caio```, if set to null it may suddenly cancel the program execution with a NullPointerException.
 2. ```metal``` variable is very important! If it is set to "false", it may trigger the Joey De Caio variable mentioned above.
 3. ```tizio``` and ```foo``` are very close friends.
 4. ```pippo``` isn't ```tizio```'s friend, but he's been flirting with ```foo```.
 5. In the comments "**manage**" should be renamed as "**handle**" (we all wish "manage" was the right word, but it's not).
-6. The constructor argument is used to control the number of executions. However, It may be completely useless if the execution is cancelled by ```Joey De Caio```.
+6. The constructor argument is used to control the number of executions. However, it may be completely useless if the execution is cancelled by ```Joey De Caio```.
 7. "_Write once, run anywhere_" means literally anywhere (e.g. Hellfest).
 8. ```songRefrain()``` identifies itself as a void method.
 
