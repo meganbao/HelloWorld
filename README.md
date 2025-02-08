@@ -1,6 +1,6 @@
 # HelloWorld.java
 
-![thumbnail](./Thumbnail.jpeg)
+![thumbnail](./Thumbnail-fix.png)
 
 Welcome to the **Nanowar Of Steel**'s first GitHub project, and first ever example of a **source-code song**.
 The aim of this project is to support and enforce "_True metal programming_", that basically means: "_write code so badly that only you can sing it_".
